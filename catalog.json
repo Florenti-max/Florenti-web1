@@ -1,0 +1,20 @@
+[
+  { "id": "blusa001", "category": "blusas", "src": "images/imagen1.jpg", "alt": "Blusa gris" },
+  { "id": "blusa002", "category": "blusas", "src": "images/blusa2.jpg", "alt": "Blusa con encaje amarillo" },
+  { "id": "blusa003", "category": "blusas", "src": "images/imagen1.jpg", "alt": "Blusa gris" },
+  { "id": "blusa004", "category": "blusas", "src": "images/imagen1.jpg", "alt": "Blusa gris" },
+  { "id": "blusa005", "category": "blusas", "src": "images/imagen1.jpg", "alt": "Blusa gris" },
+  { "id": "blusa006", "category": "blusas", "src": "images/imagen1.jpg", "alt": "Blusa gris" },
+  {"id": "sueter001","category": "sueter","src": "images/imagen2.jpg","alt": "Suéter 1"},
+  {"id": "sueter002","category": "sueter","src": "images/imagen3.jpg","alt": "Suéter 2"},
+  {"id": "sueter003","category": "sueter","src": "images/imagen4.jpg","alt": "Suéter 3"},
+  {"id": "sueter004","category": "sueter","src": "images/imagen5.jpg","alt": "Suéter 4"},
+  {"id": "sueter005","category": "sueter","src": "images/imagen2.jpg","alt": "Suéter 5"},
+  {"id": "sueter006","category": "sueter","src": "images/imagen3.jpg","alt": "Suéter 6"},
+  {"id": "sueter007","category": "sueter","src": "images/imagen4.jpg","alt": "Suéter 7"},
+  {"id": "sueter008","category": "sueter","src": "images/imagen5.jpg","alt": "Suéter 8"},
+  {"id": "sueter009","category": "sueter","src": "images/imagen2.jpg","alt": "Suéter 9"},
+  {"id": "sueter010","category": "sueter","src": "images/imagen3.jpg","alt": "Suéter 1"},
+  {"id": "sueter011","category": "sueter","src": "images/imagen4.jpg","alt": "Suéter 1"},
+  {"id": "sueter012","category": "sueter","src": "images/imagen5.jpg","alt": "Suéter 1"}
+]
